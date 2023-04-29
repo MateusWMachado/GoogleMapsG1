@@ -1,0 +1,151 @@
+{
+    "offices":[
+       {
+          "address":"R. Sen. Pinheiro, 304 - Vila Rodrigues, Passo Fundo - RS, 99070-220",
+          "id":"atitus",
+          "image":"https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+          "lat":-28.2650729,
+          "lng":-52.4010541,
+          "name":"Atitus",
+          "phone":"",
+          "region":"brazil"
+       },
+       {
+          "address":"R. Minas Gerais, 619 - Vila Lucas Araujo, Passo Fundo - RS, 99172-160",
+          "id":"amsterdam",
+          "image":"https://lh3.googleusercontent.com/gG1zKXcSmRyYWHwUn2Z0MITpdqwb52RAEp3uthG2J5Xl-4_Wz7_WmoM6T_TBg6Ut3L1eF-8XENO10sxVIFdQHilj8iRG29wROpSoug",
+          "lat":52.337801,
+          "lng":4.872066,
+          "name":"Academia Nocaut Boxe",
+          "phone":"",
+          "region":"europe"
+       },
+       {
+          "address":"R. Harry Becker, 244 - Vila Santa Maria, Passo Fundo - RS, 99070-190",
+          "id":"ann-arbor",
+          "image":"https://lh3.googleusercontent.com/Iim0OVcAgg9vmXc5ADn9KvOQFplrMZ8hBTg2biiTtuWPy_r56cy4Byx1ROk6coGt7knQdmx_jO45VX1kiCJZ0QzEtS97AP_BYG4F2w",
+          "lat":-28.2690296,
+          "lng":-52.3858541,
+          "name":"GFTeam Shinsetsu - Academia de Artes Marciais",
+          "phone":"+1 734-332-6500",
+          "region":"north-america"
+       },
+       {
+          "address":"R. Padre Guedes, 21 - Vila Lucas Araujo, Passo Fundo - RS, 99072-130",
+          "id":"athens",
+          "image":"https://lh3.googleusercontent.com/XroZnqewSrO6KuvXM5hDHtjUJzUcRQLZYfCKs4jP44dKezRvNx58uxaqUKS4fQ2eXzG2TpJNJ1X2xtfBe7Prl5hSG_xjPEF1xLtFodM",
+          "lat":-28.2687334,
+          "lng":-52.4025358,
+          "name":"Extreme Boxing - Tiago",
+          "phone":"",
+          "region":"europe"
+       },
+       {
+          "address":"Av. 7 de Setembro, 467 - Centro, Passo Fundo - RS, 99010-120",
+          "id":"atlanta",
+          "image":"https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+          "lat":-28.2636507,
+          "lng":-52.4091967,
+          "name":"CrossBoxing Academia",
+          "phone":"+1 404-487-9000",
+          "region":"north-america"
+       },
+       {
+          "address":"R. Cap. Araújo, 411B - Centro, Passo Fundo - RS, 99010-200",
+          "id":"atlanta",
+          "image":"https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+          "lat":-28.2623562,
+          "lng":-52.4153289,
+          "name":"Alliance Jiu-Jitsu Passo Fundo",
+          "phone":"+1 404-487-9000",
+          "region":"north-america"
+       },
+       {
+          "address":"R. Uruguai, 1405 - sala 01 - Centro, Passo Fundo - RS, 99010-110",
+          "id":"atlanta",
+          "image":"https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+          "lat":-28.259601,
+          "lng":-52.411211,
+          "name":"Taebaek Artes Marciais",
+          "phone":"+1 404-487-9000",
+          "region":"north-america"
+       },
+       {
+          "address":"R. Tomé Mendes, 25 - Vera Cruz, Passo Fundo - RS, 99010-360",
+          "id":"atlanta",
+          "image":"https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+          "lat":-28.2548522,
+          "lng":-52.4166145,
+          "name":"Academia Do Carmo Boxe Olímpico",
+          "phone":"+1 404-487-9000",
+          "region":"north-america"
+       },
+       {
+          "address":"R. Independência, 970 - Centro/Boqueirao, Passo Fundo - RS, 99010-041",
+          "id":"atlanta",
+          "image":"https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+          "lat":-28.2646702,
+          "lng":-52.408953,
+          "name":"Academia Olimpika",
+          "phone":"+1 404-487-9000",
+          "region":"north-america"
+       },
+       {
+          "address":"R. Morom, 1947 - Petrópolis, Passo Fundo - RS, 99051-400",
+          "id":"atlanta",
+          "image":"https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+          "lat":-28.2422225,
+          "lng":-52.3783385,
+          "name":"Muay Thai Veiga",
+          "phone":"+1 404-487-9000",
+          "region":"north-america"
+       }
+    ],
+    "regions":[
+       {
+          "coords":{
+             "lat":2.9660291,
+             "lng":1.3271339
+          },
+          "id":"africa-middle-east",
+          "name":"\u00c1frica e Oriente M\u00e9dio",
+          "zoom":3.0
+       },
+       {
+          "coords":{
+             "lat":0.0524811,
+             "lng":127.6560787
+          },
+          "id":"asia-pacific",
+          "name":"\u00c1sia-Pac\u00edfico",
+          "zoom":3.0
+       },
+       {
+          "coords":{
+             "lat":46.1352815,
+             "lng":7.4033438
+          },
+          "id":"europe",
+          "name":"Europa",
+          "zoom":4.0
+       },
+       {
+          "coords":{
+             "lat":-17.5554497,
+             "lng":-99.2316195
+          },
+          "id":"latin-america",
+          "name":"Am\u00e9rica Latina",
+          "zoom":3.0
+       },
+       {
+          "coords":{
+             "lat":45.7128252,
+             "lng":-97.1547448
+          },
+          "id":"north-america",
+          "name":"Am\u00e9rica do Norte",
+          "zoom":4.0
+       }
+    ]
+ }
